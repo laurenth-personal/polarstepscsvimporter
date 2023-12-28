@@ -20,4 +20,4 @@ The component Coord List to Pos copies these positions into a LineRenderer compo
 - The locations.coord is a sample coordinates file
 - The scripts are in the Scripts folder
 - The importer is in an editor folder, it will only work in unity editor
-- The Coords Coord List to Pos component can be removed once you're happy with the result as it will not be removed automatically from the build. it's only useful in the editor
+- The Coord List to Pos component can be removed once you're happy with the result as it will not be removed automatically from the build. it's only useful in the editor
