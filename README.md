@@ -13,4 +13,5 @@ The component Coord List to Pos copies these positions into a LineRenderer compo
 -> The line renderer positions should update with your own coordinates. You can replace the sphere with an earth model to visualize your trip better.
 
   ### Tip
-  You can use the Line Renderer's simplify function with a very low tolerance (around 0.0005) to remove noise in your trajectory.
+  - You can use the Line Renderer's simplify function with a very low tolerance (around 0.0005) to remove noise in your trajectory
+  - The line renderer width needs to be really small (0.005 or lower). You cando right click / edit key on the width curve in order to set the precise value you want
